@@ -942,3 +942,7 @@ def _get_patch_legend_artist(fill):
         return mpl.patches.Rectangle((0, 0), 0, 0, **kws)
 
     return legend_artist
+
+
+def print_b():
+    print("hello")
