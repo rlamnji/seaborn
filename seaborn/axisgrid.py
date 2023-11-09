@@ -2180,7 +2180,6 @@ def pairplot(
 
     return grid
 
-
 def jointplot(
     data=None, *, x=None, y=None, hue=None, kind="scatter",
     height=6, ratio=5, space=.2, dropna=False, xlim=None, ylim=None,
